@@ -4,7 +4,7 @@
  <title>Y. Jin</title>
  <link href="http://jyh1.github.io/atom.xml" rel="self"/>
  <link href="http://jyh1.github.io/"/>
- <updated>2016-10-14T22:16:06+08:00</updated>
+ <updated>2016-10-15T13:41:02+08:00</updated>
  <id>http://jyh1.github.io</id>
  <author>
    <name>Jin Yonghao</name>
@@ -25,7 +25,7 @@ I acquired a strong quantitative foundation and I am able to use math as a tool 
  I was first introduced to the world of computer science when I joined the informatics olympiad team in high school. Having spent nearly seven years in programming, I am adept in many programming contexts. In addition to completing the &lt;code class=&quot;highlighter-rouge&quot;&gt;National Olympiad Informatics in Province&lt;/code&gt; with the first prize, I also wrote programming language interpreters, pipelines for analyzing high throughput sequencing data, physics simulation programs, computer games and so on. My recent project is a &lt;code class=&quot;highlighter-rouge&quot;&gt;Mathematica&lt;/code&gt; language interpreter &lt;a href=&quot;https://github.com/jyh1/mmaclone&quot;&gt;mmaclone&lt;/a&gt;.
  Due to my concentration in biophysics, the required courses in biology covered many interesting topics in life sciences, molecular biology, theoretical neurology and biochemistry, just to name a few. These interesting courses provided me with sufficient knowledge and understanding in biological processes.&lt;/p&gt;
 
-&lt;p&gt;I love the feeling of doing research. Currently, I am trying to integrate different sequencing-based probing data to understand the binding preference of RNA binding proteins (RBP) under the supervision of Prof. Kun Qu.
+&lt;p&gt;I love the feeling of doing research. Currently, I am trying to integrate different sequencing-based RNA probing data to understand the binding preference of RNA binding proteins (RBP) under the supervision of Prof. Kun Qu.
 I feel that my backgrounds set me in a unique position to apply statistics, mathematics and computer science to deciphering and interpreting the big data in life sciences.
 I am applying for Ph.D. programs in the fall of 2017.&lt;/p&gt;
 </content>
